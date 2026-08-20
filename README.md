@@ -11,12 +11,12 @@ Built and maintained solo, from database schema through to Play Store release.
 [![Render](https://img.shields.io/badge/Deployed_on-Render-46E3B7?logo=render&logoColor=white)](https://render.com/)
 
 <p align="center">
-  <img src="find_job_listings.jpeg" width="240" />
-  <img src="job_progress.jpeg" width="240" />
-  <img src="my_job_applications.jpeg" width="240" />
-  <img src="notifications.jpeg" width="240" />
-  <img src="post_job.jpeg" width="240" />
-  <img src="worker_profile.jpeg" width="240" />
+  <img src="Screenshots/find_job_listings.jpeg" width="240" />
+  <img src="Screenshots/job_progress.jpeg" width="240" />
+  <img src="Screenshots/my_job_applications.jpeg" width="240" />
+  <img src="Screenshots/notifications.jpeg" width="240" />
+  <img src="Screenshots/post_job.jpeg" width="240" />
+  <img src="Screenshots/worker_profile.jpeg" width="240" />
   <img src="Screenshots/admin_dashboard.png" width="600" />
 </p>
 
