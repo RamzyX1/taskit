@@ -6,6 +6,18 @@ Built and maintained solo, from database schema through to Play Store release.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-Geospatial-336791)
 ![Render](https://img.shields.io/badge/Deployed_on-Render-46E3B7?logo=render&logoColor=white)
+
+<p align="center">
+  <img src="Screenshots/1 (1).jpeg" width="240" />
+  <img src="Screenshots/1 (2).jpeg" width="240" />
+  <img src="Screenshots/1 (3).jpeg" width="240" />
+  <img src="Screenshots/1 (4).jpeg" width="240" />
+  <img src="Screenshots/1 (5).jpeg" width="240" />
+  <img src="Screenshots/1 (6).jpeg" width="240" />
+  <img src="Screenshots/1 (7).jpeg" width="240" />
+  <img src="Screenshots/1 (8).jpeg" width="240" />
+  <img src="Screenshots/admin_dashboard.png" width="240" />
+</p>
 Live API: https://taskit-api-hgou.onrender.com
 API docs: https://taskit-api-hgou.onrender.com/docs
 ---
