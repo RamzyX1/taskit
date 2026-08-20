@@ -78,19 +78,10 @@ Contact detail leakage
 An early version of the job listing serialiser returned the full client object, including phone number, to any worker browsing open jobs. Workers could contact clients directly and skip the platform entirely. Fixed with explicit response models per audience rather than serialising ORM objects wholesale.
 Takeaway: default to allow-lists on API responses. Never let the database schema decide what leaves the server.
 ---
-Running locally
-Requirements: Python 3.11+, PostgreSQL 14+ with PostGIS
-```bash
-git clone https://github.com/RamzyX1/taskit-backend.git
-cd taskit-backend
+Configuration
+The backend source is private. Available for review on request.
 
-python -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-cp .env.example .env              # then fill in the values below
-alembic upgrade head
-uvicorn app.main:app --reload
+**Stack requirements:** Python 3.11+, PostgreSQL 14+ with the PostGIS extension.
 ```
 Interactive docs at `http://localhost:8000/docs`.
 Environment variables
