@@ -73,9 +73,13 @@ Taskit puts both sides on a single platform with identity verification, location
 ### Stack
 
 **Backend** — FastAPI, SQLAlchemy, Alembic, Pydantic, JWT auth
+
 **Database** — PostgreSQL with the PostGIS extension, hosted on Supabase
+
 **Mobile** — Flutter with Riverpod state management, Dio for networking, GoRouter for navigation
+
 **Infrastructure** — Render (API), Supabase (database and object storage), Firebase (push)
+
 **Integrations** — Omniflex Zimbabwe (SMS/OTP), Firebase Cloud Messaging
 
 ---
